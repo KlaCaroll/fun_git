@@ -11,4 +11,4 @@ def helloworld(x: int):
 
   print('hello world')
 
-helloworld(2)
+helloworld(1)
