@@ -7,7 +7,7 @@ def helloworld(x: int):
   # just for fun
   square = calcul(x)
   
-  print(f'you\'ll x{square} your level in git ... ')
+  print(f'we\'ll x{square} our level in git ... ')
 
   print('hello world')
 
