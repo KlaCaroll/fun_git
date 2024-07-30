@@ -20,7 +20,7 @@ Depot standart
 ```git add <fichier>```    
 ```git commit -m "Nom-de-Ticket_description-efficace-et-rapide-du changement"```   
 d'où l'importance de bien choisir le nom de ticket/branche.   
-```git push```    
+```git push```
 
 ## Depot complémentaire
 Vous avez déjà un commit mais vous avez des changements à ajouter.    
@@ -28,7 +28,7 @@ Vous avez déjà un commit mais vous avez des changements à ajouter.
 ```git commit --amend```    
 la console qui va s'ouvrir va vous permettre de changer le nom de commit si besoin.   
 sinon vous sortez de la console avec ```:wq```   
-```git push```   
+```git push``` ou ```git push --force-with-lease```
 
 ## **Code review**
 
