@@ -1,6 +1,6 @@
 # Depot entrainement git
 
-## On est là pour se TROOOOOL  faire des coups de pute !!
+## On est là pour se TROOLL  faire des coups de pute !!
 ohhh yeah
 
 ## **Création de Branche**
